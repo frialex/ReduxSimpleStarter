@@ -1,0 +1,3 @@
+3/7----
+	after a book is clicked, it shows up in the logs but the view
+	is not updated.
